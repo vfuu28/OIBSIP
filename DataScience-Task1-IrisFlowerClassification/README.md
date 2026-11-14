@@ -32,3 +32,27 @@ To explore the Iris dataset, perform Exploratory Data Analysis (EDA), visualise 
    - Logistic Regression
    - K-Nearest Neighbors (KNN)
 7. Evaluated both models using accuracy, confusion matrices, precision, recall, and F
+
+8. ### Model Results
+
+| Model | Accuracy |
+|---|---:|
+| Logistic Regression | 96.67% |
+| K-Nearest Neighbors (KNN) | 93.33% |
+
+### Best Performing Model
+Logistic Regression achieved the highest accuracy of 96.67% and was selected as the best-performing model.
+
+### Conclusion
+The project successfully demonstrates how machine learning models can classify Iris flower species using physical measurements. Logistic Regression performed better than KNN on the test dataset.
+
+
+
+
+
+
+
+
+
+
+
